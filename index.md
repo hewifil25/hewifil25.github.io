@@ -8,3 +8,6 @@ Michel Strogoff, Offizier bei der Elitetruppe der Kuriere des Zaren, ist ein kli
 * Ortskundig
 * Liebenswuerdig
 
+> Ich trinke nur Bier
+
+
